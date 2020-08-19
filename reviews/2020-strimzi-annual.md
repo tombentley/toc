@@ -25,7 +25,7 @@ We also managed to regularly release new versions.
 Some of the statistics highlights are:
 * [Get 55 new contributors (PRs)](https://strimzi.devstats.cncf.io/d/52/new-contributors-table?orgId=1&from=now-1y&to=now)
 * [Get contributions (review, comment, commit, issue or PR) from 35 different companies](https://strimzi.devstats.cncf.io/d/5/companies-table?orgId=1&var-period_name=Last%20year&var-metric=contributions)
-* [In average 27 PRs per week (compared to 19 the year before)](https://strimzi.devstats.cncf.io/d/15/new-prs-in-repository-groups?orgId=1&from=now-1y&to=now)
+* [On average 27 PRs per week (compared to 19 the year before)](https://strimzi.devstats.cncf.io/d/15/new-prs-in-repository-groups?orgId=1&from=now-1y&to=now)
 * [Significantly increase the number of stargazers and forks of our GitHub repositories](https://strimzi.devstats.cncf.io/d/3/stars-and-forks-by-repository?orgId=1&from=now-1y&to=now)
 * The [#strimzi Slack channel](https://cloud-native.slack.com/archives/CMH3Q3SNP) now has over 550 members who create a vibrant community with many questions and discussions
 
