@@ -7,6 +7,15 @@ But running it on Kubernetes can be complex and tedious.
 Strimzi is making it easy by using the operator pattern and declarative deployments.
 It provides operators not just for deploying Kafka clusters, but also for managing topics, users or connectors to make sure running Apache Kafka feels Kube-native.
 
+Strimzi also integrates with many other CNCF projects such as:
+* Kubernetes
+* Prometheus for metrics and monitoring
+* Open Policy Agent for authorization
+* KEDA for autoscaling of Kafka clients
+* Jaeger and Open Tracing for tracing
+
+Strimzi can be also installed using Helm charts or using OperatorHub.io which is part of the Operator Framework project.
+
 Strimzi joined CNCF Sandbox in September 2019.
 
 ## Contribution activity
@@ -18,7 +27,7 @@ Some of the statistics highlights are:
 * [Get contributions (review, comment, commit, issue or PR) from 35 different companies](https://strimzi.devstats.cncf.io/d/5/companies-table?orgId=1&var-period_name=Last%20year&var-metric=contributions)
 * [In average 27 PRs per week (compared to 19 the year before)](https://strimzi.devstats.cncf.io/d/15/new-prs-in-repository-groups?orgId=1&from=now-1y&to=now)
 * [Significantly increase the number of stargazers and forks of our GitHub repositories](https://strimzi.devstats.cncf.io/d/3/stars-and-forks-by-repository?orgId=1&from=now-1y&to=now)
-* The #strimzi Slack channel now has over 550 members wich create a vibrant community with many questions and discussions
+* The [#strimzi Slack channel](https://cloud-native.slack.com/archives/CMH3Q3SNP) now has over 550 members who create a vibrant community with many questions and discussions
 
 Despite the the number of new contributors, most of the contributions are still carried by the core contributors from Red Hat.
 We would like to have more people contribute regularly to the project and not just occasionally with one-of PRs.
