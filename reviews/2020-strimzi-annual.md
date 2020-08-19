@@ -65,12 +65,12 @@ But our general goals and expectations when joining CNCF Sandbox were:
 * Attract more contributors and grow the community thanks to the independent governance of CNCF
 * Attract more users through the increased visibility
 
-These goals are being fullfilled as seen from the new users and new contributors statistics.
+These goals are being fulfilled as seen from the new users and new contributors statistics.
 
 ## Current Goals
 
 For the next year, we would like to achieve the following goals:
-* Keep attracting more users to Strimzi and Apache Kafka on Kuberenetes
+* Keep attracting more users to Strimzi and Apache Kafka on Kubernetes
 * Keep broadening the contributor base with focus on trying to get also more regular and long-term committers. This should also lead to adding more maintainers from other companies than just IBM and Red Hat.
 * Release Strimzi 1.0. While we see Strimzi as production-ready and have production users, we are still on `0.x` versions. We should move to 1.0 during the next year.
 
@@ -80,5 +80,5 @@ According to the feedback from many of our users and contributors, the speaking 
 
 ## Incubation
 
-We think that we match the incubation criteria regarding adoption and contrbutions and healthy number of committers for a project of our size.
+We think that we match the incubation criteria regarding adoption and contributions and healthy number of committers for a project of our size.
 Assuming the TOC members agree, we would like to start working on incubation during the next year.
